@@ -1,4 +1,7 @@
 {
+    "bin": [
+        "bin/brain-games"
+    ],
     "name": "nikitadnet/brain-games",
     "authors": [
         {
