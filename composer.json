@@ -1,0 +1,11 @@
+{
+    "name": "nikitadnet/brain-games",
+    "authors": [
+        {
+            "name": "Nikita Demchenko",
+            "email": "demchenkonikitko@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {}
+}
